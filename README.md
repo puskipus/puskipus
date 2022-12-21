@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puskipus&label=Profile%20views&color=0e75b6&style=flat" alt="puskipus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puskipus" alt="puskipus" /></a> </p>
-
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **linkedin.com/in/thoriqar/**
