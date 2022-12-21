@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me **linkedin.com/in/thoriqar/**
+- 📫 How to reach me **<a>linkedin.com/in/thoriqar/<a/>**
 
 - ⚡ Fun fact **I brush my teeth using my left hand even I'm not left-handed**
 
