@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thoriq Achmad Ramadhan AKA @puskipus</h1>
+<h1 align="center">Hi 👋, I'm Thoriq Achmad Ramadhan</h1>
 <h3 align="center">I'm passionate with Web Developer from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47n51aupfzd70uc0niqh4fyacvb08i14j4bdukqmbm&rid=giphy.gif&ct=g">
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/thoriqar/">linkedin.com/in/thoriqar/<a/>**
-
-- ⚡ Fun fact **I brush my teeth using my left hand even I'm not left-handed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
